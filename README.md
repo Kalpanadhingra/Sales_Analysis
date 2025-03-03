@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Dashboard – Power BI
+# Sales Analysis Dashboard – Power BI
 🚀 A dynamic and interactive Power BI dashboard to analyze sales trends, revenue, and performance across various dimensions
 # 🔹 Overview
 This Power BI Sales Analysis Dashboard provides key business insights, helping decision-makers understand:
