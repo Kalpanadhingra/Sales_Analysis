@@ -1,0 +1,16 @@
+DAX- data analytics expression.
+it is like  a programing in power bi
+
+Function in dax:
+1. logical function - if , switch
+2. lookup functions - vlookup and other
+3. Date and time function 
+4. text functions - concatenate, lower, upper
+5. information function - istext 
+6. filter functions - filter , calcutable  
+7. aggregate function - filter and calcutable .
+8. time intelligence - samepreviouslastyear and tataltd. means we can check the date or time at the same time in privious year or any year or time 
+9.math and trigonometry - abs , sin cos
+10. statistical functions- percentile , avg
+11. financial function - nvp , irr
+other function - now , guid and more wich cant fit in any particular function but categorised as function.
