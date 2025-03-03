@@ -6,7 +6,6 @@ This Power BI Sales Analysis Dashboard provides key business insights, helping d
 ✅ Regional and Product-wise Sales Distribution 🌎🛒
 ✅ Customer Trends and Purchase Behavior 👥
 ✅ Year-over-Year Sales Growth and Seasonality 📆
-
 📌 The dashboard is built for business intelligence and decision-making
 # 🛠️ Features & KPIs Tracked
 ✔ Total Sales & Profit Overview – Visualizes revenue and profitability.
